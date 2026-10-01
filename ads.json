@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-10-01",
+  "ads": [
+    {
+      "id": "pub-promo-1",
+      "title": "Achetez nos équipements de menuiserie",
+      "imageUrl": "https://votre-pseudo.github.io/nom-du-repo/assets/ads/banner1.jpg",
+      "targetUrl": "https://wa.me/22900000000",
+      "active": true
+    }
+  ]
+}
